@@ -11,8 +11,8 @@
     tools:context="tcss450.uw.edu.aboutme.ShowImageActivity">
     <ImageView
         android:id="@+id/imageview_id"
+        android:contentDescription="@string/desc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/a" />
-
+        android:src="@drawable/windows" />
 </LinearLayout>

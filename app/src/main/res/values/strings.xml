@@ -6,4 +6,5 @@
     <string name="Toast">Toast</string>
     <string name="Dialog">Dialog</string>
     <string name="Info">"Name: Arthur Panlilio\n\nGraduating: Next quarter\n\nJob lined up: none\n\nFavorite Class: this one"</string>
+    <string name="desc">Description</string>
 </resources>
